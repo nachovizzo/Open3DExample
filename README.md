@@ -1,3 +1,5 @@
+**NOTE:** Open3D added a similar project [here](https://github.com/intel-isl/open3d-cmake-find-package). Make sure you checkout that first since this repo might get outdated really fast.
+
 # Open3D C++ Example
 
 This is a really dummy project, but you could use it to test if your `Open3D`
